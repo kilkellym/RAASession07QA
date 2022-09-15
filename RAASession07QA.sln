@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAASession07QA", "RAASession07QA\RAASession07QA.csproj", "{9AC9D7DC-0807-432E-A484-59A7587189AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC9D7DC-0807-432E-A484-59A7587189AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC9D7DC-0807-432E-A484-59A7587189AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC9D7DC-0807-432E-A484-59A7587189AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC9D7DC-0807-432E-A484-59A7587189AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C32F5F4-27A3-4DCA-8EA7-F7D37D0AC8BB}
+	EndGlobalSection
+EndGlobal

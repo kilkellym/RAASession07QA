@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RAASession07QA</Text>
+    <Description>Some description for RAASession07QA</Description>
+    <Assembly>RAASession07QA.dll</Assembly>
+    <FullClassName>RAASession07QA.Command</FullClassName>
+    <ClientId>12c8c906-177d-41bf-a4ce-d5b3243713da</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RAASession07QA</Name>
+    <Assembly>RAASession07QA.dll</Assembly>
+    <FullClassName>RAASession07QA.App</FullClassName>
+    <ClientId>c42b5ca8-adf6-4ec3-a7e4-191669ddf2f3</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
